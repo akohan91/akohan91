@@ -5,11 +5,11 @@
 </br>
 
 I am glad to introduce you to Andrei. He is a good man
-who loves his job and tries to grow skills and knowledge.
+who **loves his job** and grows skills and knowledge.
 
 There is a good thing I can tell you about him - he
-likes difficult and interesting tasks that allow him to
-implement his ideas including open-source projects.
+**likes difficult and interesting tasks** that allow him to
+implement his ideas including **open-source projects**.
 
 The good news is that he likes meeting new people
 and opportunities. I'm 100% sure you guys will be
