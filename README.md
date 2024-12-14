@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+
+[<img align="left" alt="akohan91 | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:akohan91@gmail.com)
+[<img align="left" alt="akohan91 | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/akohan)
+</br>
+
 I am glad to introduce you to Andrei. He is a good man
 who loves his job and tries to grow skills and knowledge.
 
