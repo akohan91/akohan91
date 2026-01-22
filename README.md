@@ -1,7 +1,14 @@
 # Hi, I'm Andrei Kakhanouski 👋🚀
 
 [<img align="left" alt="akohan91 | Gmail" title="Gmail"  width="22px" src="https://cdn.simpleicons.org/gmail" />](mailto:akohan91@gmail.com)
-[<img align="left" alt="akohan91 | LinkedIn" title="LinkedIn" width="22px" src="https://cdn.simpleicons.org/googlemessages" />](https://www.linkedin.com/in/akohan)
+
+<a href="https://www.linkedin.com/in/akohan" style="margin-left: 10px">
+  <img
+    alt="akohan91 | LinkedIn"
+    src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png.original.png"
+    height="24px"
+  >
+</a>
 </br>
 
 🌟 **Welcome to my GitHub!** I specialize in developing robust solutions for Salesforce, focusing on Apex frameworks, integrations, and Lightning Web Components (LWCs).  
